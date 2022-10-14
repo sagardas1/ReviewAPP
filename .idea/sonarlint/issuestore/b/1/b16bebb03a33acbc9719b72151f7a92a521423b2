@@ -1,0 +1,8 @@
+
+N
+java:S49734"9Use the "equals" method if value comparison was intended.(œ¨¹z
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ±ÿÚþÿÿÿÿ
+m
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(×üÊãþÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Success" 4 times.(àºÜù

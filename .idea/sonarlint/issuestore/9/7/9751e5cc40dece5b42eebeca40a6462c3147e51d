@@ -1,0 +1,8 @@
+
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+Y
+java:S1128"<Remove this unused import 'com.review.Review.pozo.Employee'.(æÖö 8´Ï‡½0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8´Ï‡½0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã›¨¿ûÿÿÿÿ
